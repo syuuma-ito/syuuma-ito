@@ -2,7 +2,7 @@
 
 <h4 align="center">high school student</h4>
 
-### My Stats
+### 💻️My Stats
 
 [![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syuuma-ito&theme=transparent)](https://github.com/syuuma-ito)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=syuuma-ito&rank_icon=github&theme=transparent&hide_border=true)](https://github.com/syuuma-ito)
