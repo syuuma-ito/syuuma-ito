@@ -6,7 +6,7 @@
 class MyProfile:
     def __init__(self):
         self.name = "Syuuma Ito"
-        self.birthday = "2009-02-09"
+        self.birthday = "2007-02-09"
         self.affiliation = "大学 情報工学"
         self.favorite_food = ["ラーメン", "抹茶系"]
         self.hobby = ["プログラミング", "写真", "音楽"]
