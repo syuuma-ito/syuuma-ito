@@ -1,4 +1,4 @@
-# Hello👋, I'm Syuuma Ito
+# Hello, I'm Syuuma Ito
 
 ## Profile
 
